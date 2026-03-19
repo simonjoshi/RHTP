@@ -1,0 +1,1905 @@
+Failed to load resource: net::ERR_FAILEDUnderstand this error
+/make/6wkMFfFXVNS6R7i39yuR0z/Mental-Health-and-SDoH-Search-Site?p=f&t=toxQJyiAOBVo8uHz-0:1 Access to image at 'https://www.gravatar.com/avatar/16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png?c=1' from origin 'https://www.figma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_…:1  Failed to load resource: net::ERR_FAILEDUnderstand this error
+/api/make/6wkMFfFXVNS6R7i39yuR0z/cached_preview_urls?source_code_hash=6a55d42c567221f4737a39fe43d9f457f03c9b8b:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/make/fetch_ds_code_gen_status:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/93d63ff1c7d7303bdc5fddd93b99f80a8c0f06ce6c9e5636d0c733cfd8de4b5a:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/419f382602809310a21659411c591cb85713dcc32aa1880e91d62d0e6247f88e:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/fb1ab0ec934ecc6ebec038963f2531b3ca2dcbcc22b27c3d9141caa7db6ac721:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/e58654c47dd749e59b1e66d3c7d3c790c86c1fd67089800a19701ab23b771cb3:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/make/6wkMFfFXVNS6R7i39yuR0z/Mental-Health-and-SDoH-Search-Site?p=f&t=toxQJyiAOBVo8uHz-0&preview-route=%2Fportal:1 Access to image at 'https://www.gravatar.com/avatar/16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png?c=1' from origin 'https://www.figma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_…:1  Failed to load resource: net::ERR_FAILEDUnderstand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/81f50ad699c9d6374fbf88a71a273902073e1d3ed85565cd968370437a998622:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/6116d1d543f52db194bb9fcd777f7f941dfd0fecfc5e9a121c7ea98f8c673203:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/43b5581f82d618ea3cf13858500306fdaec684ea7e5541e4535cee76c4b6d98f:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/8d5c69fea2f3610c2b050f7c5746192556e3c97f1cf92a7fdf8aac8d9874d7c3:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/23376b9fd1253f718755208199ca079804e7654eb75982dc445e23a2192f5331:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/350f43b2854bd0582148e623921bf32c451134d70f01a4416f878a5f0ca7042d:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/make/6wkMFfFXVNS6R7i39yuR0z/Mental-Health-and-SDoH-Search-Site?p=f&t=toxQJyiAOBVo8uHz-0&preview-route=%2Fportal:1 Access to image at 'https://www.gravatar.com/avatar/16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png?c=1' from origin 'https://www.figma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_…:1  Failed to load resource: net::ERR_FAILEDUnderstand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+ WebSocket connection to 'wss://ta-01kkhvgrxb9z6qxwseg9fk9rmq-1380-7wplrt5oyj4p9lld3t605v1gq.makeproxy-m.figma.site/' failed: 
+ping @ ta-01kkhvgrxb9z6qxws…e/@vite/client:1035Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/3d23795d8d2c45e9f691008360c8275224b3dc3a83417dd183e9702dd571b321:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/51e4d7a6ba7b2e4d2db20527d7c9ed084e3d6936c6e8620851757490dc6426a3:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/59ed503762753e73e636665c4cf5558904077f6de9adcf19ddefb6906b0bf411:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/28c97df4cdacc5f9ff48e75d9a5cbf74e27e55aa0e674c0f91fde2b51e991489:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/d42489e753165185675a2e39866fb121dc17b2a36c620a45884af713dadee585:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/87153287d88257e97c2f37a1639921a2e1b170337509ec6a6bc96c5dd71ffd55:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/dba3c839dcd5486a408066a841465f28b9d415e47dde7717727f2910b44e3baa:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+Mental-Health-and-SDoH-Search-Site?p=f&t=toxQJyiAOBVo8uHz-0&preview-route=%2Fclient-portal:1 Access to image at 'https://www.gravatar.com/avatar/16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png?c=1' from origin 'https://www.figma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_…:1  Failed to load resource: net::ERR_FAILEDUnderstand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/80eec8f63e4f9ef71a20b0b5681dde51d6e4168c7c50c76d566e2de873c34c24:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/c118c5d903c1384c2189664b0f0feeddb20fdd204062a61dc69fff1da9cdab4d:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/5dc34d43124c2f716b0cd2475adfd7fbf66d8ffc777642d37c9df6eb49176700:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/22e4252f8f4777890913b021fd7013f814e049d25d6330fe9db251fd8e857e32:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/0bba2a7000c17b75a3d1ee6043ab6e7e7ea759af9664e1634558812e787aa723:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/85081827b98dbf91a3846168a7935bb8acc9076d49382885c206829549d969d2:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/074209d239bced65f6f964113b4cd63f34bfd86f3803f33eda549b38c4dae3bb:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/888f0a5318c7b957a889d05b28cc8c19938f198a64744247be9fb76030b231bb:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+5heidi.js:241 processing removed
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/bd8777a00e391245149e5d8f17884ab626ca9962f0b39e6a1287aa2c5ab3e78d:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+vendor-core-ade2edecaf4781c7.min.js.br:54 Failed to fetch snapshot files: E: XHR for "/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/bd8777a00e391245149e5d8f17884ab626ca9962f0b39e6a1287aa2c5ab3e78d" failed with status 404
+    at C (1535-b5b5bbc16f7fd25b.min.js.br:1131:13965)
+    at async Object.k [as get] (1535-b5b5bbc16f7fd25b.min.js.br:1131:14348)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:24678
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:34:30563
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:25109
+    at async k (3058-0a0b28f4f2c1fffa.min.js.br:34:30071)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:33:104785
+(anonymous) @ vendor-core-ade2edecaf4781c7.min.js.br:54Understand this warning
+7heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+29heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+24heidi.js:241 processing removed
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/52fd13d31942df126874fed7d717970d3d187e7f9be4e2068afbe6bb76fa42b6:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+vendor-core-ade2edecaf4781c7.min.js.br:54 Failed to fetch snapshot files: E: XHR for "/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/52fd13d31942df126874fed7d717970d3d187e7f9be4e2068afbe6bb76fa42b6" failed with status 404
+    at C (1535-b5b5bbc16f7fd25b.min.js.br:1131:13965)
+    at async Object.k [as get] (1535-b5b5bbc16f7fd25b.min.js.br:1131:14348)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:24678
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:34:30563
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:25109
+    at async k (3058-0a0b28f4f2c1fffa.min.js.br:34:30071)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:33:104785
+(anonymous) @ vendor-core-ade2edecaf4781c7.min.js.br:54Understand this warning
+21heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+97heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+47heidi.js:241 processing removed
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/75e4069f8a6631afdd9568f15f453adcbf1c752238a413150fcaba7821f1bfd1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+vendor-core-ade2edecaf4781c7.min.js.br:54 Failed to fetch snapshot files: E: XHR for "/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/75e4069f8a6631afdd9568f15f453adcbf1c752238a413150fcaba7821f1bfd1" failed with status 404
+    at C (1535-b5b5bbc16f7fd25b.min.js.br:1131:13965)
+    at async Object.k [as get] (1535-b5b5bbc16f7fd25b.min.js.br:1131:14348)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:24678
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:34:30563
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:25109
+    at async k (3058-0a0b28f4f2c1fffa.min.js.br:34:30071)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:33:104785
+(anonymous) @ vendor-core-ade2edecaf4781c7.min.js.br:54Understand this warning
+18heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+67heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+22heidi.js:241 processing removed
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/3fec205de28f2a1829c2725c3e96fccfede6b544c908776046e62ec96681fcbf:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+vendor-core-ade2edecaf4781c7.min.js.br:54 Failed to fetch snapshot files: E: XHR for "/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/3fec205de28f2a1829c2725c3e96fccfede6b544c908776046e62ec96681fcbf" failed with status 404
+    at C (1535-b5b5bbc16f7fd25b.min.js.br:1131:13965)
+    at async Object.k [as get] (1535-b5b5bbc16f7fd25b.min.js.br:1131:14348)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:24678
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:34:30563
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:25109
+    at async k (3058-0a0b28f4f2c1fffa.min.js.br:34:30071)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:33:104785
+(anonymous) @ vendor-core-ade2edecaf4781c7.min.js.br:54Understand this warning
+2heidi.js:241 processing removed
+ 11:27:38 PM [vite] (client) hmr update /src/app/pages/ClientPortal.tsx, /src/styles/index.css
+5heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+41heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+22heidi.js:241 processing removed
+heidi.js:241 Error processing removed node: TypeError: c.hasAttribute is not a function
+    at heidi.js:241:11461
+    at NodeList.forEach (<anonymous>)
+    at Gy.MutationObserver.observe.subtree (heidi.js:241:11440)
+(anonymous) @ heidi.js:241Understand this error
+21heidi.js:241 processing removed
+/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/b689cf0f562a48f6df7c3c4d639b8c8e5dbf6492c3f04800b7cf8bb85a2804b8:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+vendor-core-ade2edecaf4781c7.min.js.br:54 Failed to fetch snapshot files: E: XHR for "/api/rev/6wkMFfFXVNS6R7i39yuR0z/code_snapshot/b689cf0f562a48f6df7c3c4d639b8c8e5dbf6492c3f04800b7cf8bb85a2804b8" failed with status 404
+    at C (1535-b5b5bbc16f7fd25b.min.js.br:1131:13965)
+    at async Object.k [as get] (1535-b5b5bbc16f7fd25b.min.js.br:1131:14348)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:24678
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:34:30563
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:3:25109
+    at async k (3058-0a0b28f4f2c1fffa.min.js.br:34:30071)
+    at async 3058-0a0b28f4f2c1fffa.min.js.br:33:104785
+(anonymous) @ vendor-core-ade2edecaf4781c7.min.js.br:54Understand this warning
+4heidi.js:241 processing removed
+ 11:30:51 PM [vite] (client) hmr update /src/app/pages/ClientPortal.tsx, /src/styles/index.css
+ Pending callback requests updated: Array(0)
+ Callback submitted with providers: Array(0)
+ Pending callback requests updated: Array(0)
+ Pending callback requests updated: Array(0)
+heidi.js:241 processing removed
+vendor-core-ade2edecaf4781c7.min.js.br:54 [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/6wkMFfFXVNS6R7i39yuR0z?role=editor&tracking_session_id=37TpJLW0CE224BSK&version=151&recentReload=0&file-load-streaming-compression=&user-id=1174225993810310241&client_release=1c5780f2a91c50c1be7cc799c8c0456bd7ddc7c4&reconnect-key=de84da6054695abcc02e2a55edde2d696fca18c4&reconnect-sequence-number=1362&initialFileVersion=106&previousLoadMode=full&incremental-loading-validation=0
+vendor-core-ade2edecaf4781c7.min.js.br:54 [MultiplayerSession] Joining file version 106 (skip_reload reconnect)
+heidi.js:241 processing removed
+Mental-Health-and-SDoH-Search-Site?p=f&t=toxQJyiAOBVo8uHz-0&preview-route=%2Fclient-portal:1 Access to image at 'https://www.gravatar.com/avatar/16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png?c=1' from origin 'https://www.figma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+16f95b7345261c12996c001b633a5f49?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_…:1  Failed to load resource: net::ERR_FAILED
